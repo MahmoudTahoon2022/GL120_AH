@@ -1,1 +1,9 @@
-
+{
+  "devices": {
+    "GL120_AH": {
+      "version": "1.0",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/GL120_AH/main/GL120_AP_v1.0.bin",
+      "force": false
+    }
+  }
+}
